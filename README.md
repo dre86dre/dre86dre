@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre Pinnock</h1>
 <h3 align="center">A passionate Python developer from London, England</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif”>
 
 - 🌱 I’m currently learning **Python, HTML, CSS**
 
