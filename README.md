@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **connect2andre@hotmail.com**
 
-Skills
+## Skills
 
 ### Currently Learning
 - **Python**: Basics, data structures, simple projects
