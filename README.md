@@ -3,9 +3,22 @@
 
 <p>I'm excited to learn, collaborate, and grow my skills. Here's a little bit about me and what I'm working on.</p>
 
-- 🌱 I’m currently learning **Python, HTML, CSS, Cybersecurity**
+- 💻 I’m currently learning **Python, HTML, CSS, Cybersecurity**
+
+- 🌱 Excited about web development and data science
 
 - 📫 How to reach me **connect2andre@hotmail.com**
+
+## Skills
+
+### Currently Learning
+- **Python**: Basics, data structures, simple projects
+- **HTML**: Structure of web pages, basic tags, and forms
+- **CSS**: Styling web pages, layout techniques
+
+### Tools & Technologies
+- **Git & GitHub**: Version control and collaboration
+- **VSCode**: My code editor of choice
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
