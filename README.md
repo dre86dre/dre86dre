@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/bed39f88-9832-4d09-8ab2-957b52012162)
+
 <h1 align="center">Hi 👋, I'm Andre Pinnock</h1>
 <h3 align="center">A passionate beginner in the world of programming, currently diving into Python, HTML, and CSS.</h3>
 
