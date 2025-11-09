@@ -1,7 +1,7 @@
 ![202650321-7f4da361-f98f-4345-8df4-adf352a11322](https://github.com/user-attachments/assets/46f1f3c1-23fd-4a02-af27-a43c3a2821c6)
 
 <h1 align="center">Hi 👋, I'm Andre Pinnock</h1>
-<h3 align="center">A passionate beginner in the world of programming, currently diving into Python, Cybersecurity.</h3>
+<h3 align="center">A passionate beginner in the world of programming, currently diving into Python & Cybersecurity.</h3>
 
 <p>I'm excited to learn, collaborate, and grow my skills. Here's a little bit about me and what I'm working on.</p>
 
