@@ -15,8 +15,7 @@
 
 ### Currently Learning
 - **Python**: Basics, data structures, simple projects
-- **HTML**: Structure of web pages, basic tags, and forms
-- **CSS**: Styling web pages, layout techniques
+- **Cybersecurity**: Networking, security basics, red and blue team security
 
 ### Tools & Technologies
 - **Git & GitHub**: Version control and collaboration
